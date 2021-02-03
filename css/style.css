@@ -1,15 +1,13 @@
-h2{
-    color:blue;
+.child{
+    border:5px solid red;
+    width:400px;
+    padding:30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
 }
-.sample{
-    background-color: cyan;
-}
-#sample1{
-    background-color: blue;
-}
-#sample2{
-    background-color: blue;
-}
-.sm1{
-    border:3px solid green;
+.parent{
+    display:flex;
+    justify-content: center;
 }
