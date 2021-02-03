@@ -1,7 +1,8 @@
 .child{
-    border:5px solid red;
+    border:5px ridge rgba(0, 217, 255, 0.219);
     width:400px;
     padding:30px;
+    margin: 10px;
     display: flex;
     flex-direction: column;
     align-items: center;
